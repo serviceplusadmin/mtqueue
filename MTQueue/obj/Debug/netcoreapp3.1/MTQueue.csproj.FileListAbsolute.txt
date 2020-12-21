@@ -1,0 +1,12 @@
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\bin\Debug\netcoreapp3.1\MTQueue.deps.json
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\bin\Debug\netcoreapp3.1\MTQueue.dll
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\bin\Debug\netcoreapp3.1\MTQueue.pdb
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\obj\Debug\netcoreapp3.1\MTQueue.csprojAssemblyReference.cache
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\obj\Debug\netcoreapp3.1\MTQueue.AssemblyInfoInputs.cache
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\obj\Debug\netcoreapp3.1\MTQueue.AssemblyInfo.cs
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\obj\Debug\netcoreapp3.1\MTQueue.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\obj\Debug\netcoreapp3.1\MTQueue.dll
+C:\Users\Muhammet\Source\Repos\mtqueue\MTQueue\obj\Debug\netcoreapp3.1\MTQueue.pdb
+C:\Users\Muhammet\source\repos\mtqueue\MTQueue\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\Muhammet\source\repos\mtqueue\MTQueue\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\Muhammet\source\repos\mtqueue\MTQueue\bin\Debug\netcoreapp3.1\libzstd.dll
